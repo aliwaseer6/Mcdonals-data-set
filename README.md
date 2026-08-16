@@ -28,5 +28,10 @@ The project includes:
 - CSV file — Dataset
 - README.md — Project documentation
 
+## Key Insights
+- A positive relationship can be observed between fat content and calories.
+- Menu items with higher fat content generally tend to have higher calorie values.
+- The analysis helps identify nutritional patterns across McDonald's menu items.
+
 ## Conclusion
 This project demonstrates the use of Python for data cleaning, analysis, visualization, and extracting useful insights from a real-world dataset.
