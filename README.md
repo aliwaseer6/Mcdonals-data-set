@@ -29,9 +29,13 @@ The project includes:
 - README.md — Project documentation
 
 ## Key Insights
-- A positive relationship can be observed between fat content and calories.
-- Menu items with higher fat content generally tend to have higher calorie values.
-- The analysis helps identify nutritional patterns across McDonald's menu items.
+- A positive relationship was observed between fat content and calories, indicating that higher-fat menu items generally tend to have higher calorie values.
+- Carbohydrates had the highest average nutritional value in the dataset, followed by protein and fat.
+- Protein showed strong positive correlations with salt (0.90) and fat (0.84).
+- Fat and saturated fat also showed a strong positive correlation (0.84).
+- The 20 Chicken McNuggets had the highest calorie value among the top 10 products, at approximately 870 calories.
+- Big Tasty with Bacon and Big Tasty were also among the highest-calorie products.
+- The analysis highlights important nutritional patterns across McDonald's menu items.
 
 ## Conclusion
 This project demonstrates the use of Python for data cleaning, analysis, visualization, and extracting useful insights from a real-world dataset.
